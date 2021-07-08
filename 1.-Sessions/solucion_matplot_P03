@@ -1,0 +1,19 @@
+import numpy as np
+import matplotlib.pyplot as plt
+
+meses = [ 'Gen', 'Feb', 'Mar', 'Abr', 'Mayo', 'Junio']
+temperaturas = [12.5, 12.3, 15.2, 16.4, 20.5, 22.2]
+plujamm = [335, 203, 334, 604, 700, 555]
+
+meses.extend(["Jul", "Ago","Sep", "Oct", "Nov", "Dic"])
+temperaturas.extend (np.random.uniform(0,45,6))
+plujamm.extend (np.random.randint(0,600,6))
+print ("meses:", meses )
+print ("temperaturas:", temperaturas )
+print ("plujamm:", plujamm )
+
+data = {'meses': meses, 'temps':temperaturas, 'plujamm':plujamm}
+data ['c'] = [1,2,3,4,5,6,7,8,9,10,11,12]
+
+plt.scatter('meses', 'temps',  s='plujamm', c='c', data = data)
+plt.show()
