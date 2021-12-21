@@ -1,0 +1,14 @@
+﻿Python es un lenguaje de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código.2​ Se trata de un lenguaje de programación multiparadigma, ya que soporta orientación a objetos, programación imperativa y, en menor medida, programación funcional. Es un lenguaje interpretado, dinámico y multiplataforma.
+Es administrado por la Python Software Foundation. Posee una licencia de código abierto, denominada Python Software Foundation License.
+Python fue creado a finales de los ochenta4​ por Guido van Rossum en el Centro para las Matemáticas y la Informática (CWI, Centrum Wiskunde & Informatica), en los Países Bajos, como un sucesor del lenguaje de programación ABC, capaz de manejar excepciones e interactuar con el sistema operativo Amoeba.
+El nombre del lenguaje proviene de la afición de su creador por los humoristas británicos Monty Python. 
+En unos momentos nos vamos a ocupar de unos asuntos que han traido unos alumnos.
+Es decir, nos referimos a la examinación e interpretación de una base de datos. Esto, con el fin de llegar a la resolución de un problema o cuestionamiento.
+Durante este análisis, los datos pueden ser objeto de operaciones, por ejemplo, para obtener indicadores estadísticos.
+Cabe señalar que este es un proceso de la ciencia de datos que se da luego de la recolección de la información.
+Es decir, este análisis incluye todas las herramientas a las que podemos recurrir para el estudio de una base de datos, incluso las visuales como el histograma, el diagrama de barras, el gráfico circular, entre otros.
+Tipos de análisis de datos
+El análisis de datos puede ser de dos tipos:
+Cuantitativo: La información es numérica a partir de la cual se pueden elaborar estadísticas exactas. Por ejemplo, las calificaciones obtenidas por los alumnos de una clase en el último semestre.
+Cualitativo: Se trata de información obtenida de una base de datos presentada usualmente en forma textual. Por ejemplo, un grupo objetivo donde se ha consultado a los participantes su opinión sobre un nuevo producto.
+Herramientas del análisis de datos
