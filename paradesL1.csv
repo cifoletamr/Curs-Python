@@ -1,0 +1,31 @@
+nombre_estacion;accesible_o_no;ocupacion;enlace_metro;enlace_externo
+Hospital de Bellvitge; Estación accesible;" Ocupación muy baja	";;
+Bellvitge; Estación accesible ;" Ocupación muy baja	";;
+Av. Carrilet; Estación accesible;"Ocupación muy baja	";; FGC
+Rambla Just Oliveras; Estación accesible;"Ocupación muy baja	";;Rodalies
+Can Serra; Estación accesible;" Ocupación muy baja	";;
+Florida; Estación accesible;" Ocupación muy baja	";;
+Torrassa; Estación accesible;" Ocupación baja	"; L9S L10S;
+Santa Eulàlia; Estación accesible;" Ocupación baja	";;
+Mercat Nou; Estación accesible; Ocupación baja;;
+Plaça de Sants ; ; Ocupación baja; L5;
+Hostafrancs; Estación accesible;" Ocupación baja	";;
+Espanya;;"Ocupación media	";L3; FGC
+Rocafort;Estación accesible;"Ocupación media	";;
+Urgell;Estación accesible;"Ocupación media	";;
+Universitat;Estación accesible;"Ocupación media	";"L2	";
+Catalunya;Estación accesible;"Ocupación media	";L3; FGC Rodalies
+Urquinaona;;"Ocupación media	";L4 ;
+Arc de Triomf;Estación accesible;"Ocupación media	";;Rodalies
+Marina; Estación accesible;"Ocupación media	";;TRAM
+Glòries;Estación accesible;"	Ocupación baja	";;TRAM
+Clot;;"	Ocupación media	";L2;Rodalies
+Navas;Estación accesible;"Ocupación baja	";;
+La Sagrera;Estación accesible;"	Ocupación baja	";L5 L9N L10N  ;Rodalies
+Fabra i Puig;Estación accesible;"Ocupación baja	";;Rodalies
+Sant Andreu; Estación accesible;"Ocupación baja	";;Rodalies
+Torras i Bages;Estación accesible;Ocupación baja;;
+Trinitat Vella; Estación accesible;" Ocupación baja	";;
+Baró de Viver; Estación accesible;" Ocupación muy baja	";;
+Santa Coloma; Estación accesible;" Ocupación muy baja	";;
+Fondo; Estación accesible;" Ocupación muy baja	";L9N;
